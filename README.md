@@ -1,21 +1,5 @@
-# ProductsGeneralMachineSystemServices
+# Products General Machine System Services
 
+Super App Memungkinkan anda melakukan berbagai hal Dalam 1 App,
 
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add products_general_machine_system_services
-```
-
-or flutter
-
-```bash
-dart pub add products_general_machine_system_services_flutter
-```
- 
+Anda bisa melakukan penjualan, pembelian, membaca, menggunakan ai dan anda bisa menjadi bagian kami (Sebagai Reseller)
